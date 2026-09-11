@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+I know one thing which is I know nothing and that fuels me to gain more knowledge.
+
+Lead me from darkness to light.
+
+Everything is possible.
+
+![VISITORS](https://komarev.com)
+
+
 <!--
 **STEELINCODER/STEELINCODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
